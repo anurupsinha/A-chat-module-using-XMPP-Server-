@@ -1,0 +1,2 @@
+# A-chat-module-using-XMPP-Server-
+During summer 2018, I did a 1 month internship at Tivintis Media Junction Pvt. Ltd., Kolkata. This was the project I was asked to prepare. Theey needed a sample chat module which allows group chat as well as one-to-one chat beside a video player like twitch. They wanted to use it on their video streaming sites. This uploaded project contains stuff by me as well as others which I used in my project. All the external sources are open source and and have been mentioned. The XMPP Server used by me was OpenFire Server
